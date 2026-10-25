@@ -35,6 +35,7 @@ I studied **Software Engineering** at the University of Málaga and interned at 
 **AI & tools**
 
 ![Gemini](https://img.shields.io/badge/Gemini-161B22?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![Claude](https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logo=claude&logoColor=D97757)
 ![MCP](https://img.shields.io/badge/MCP-161B22?style=for-the-badge&logo=modelcontextprotocol&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-161B22?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
